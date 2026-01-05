@@ -4,7 +4,7 @@ LedgerLink is a full-stack financial bookkeeping application designed for indivi
 
 
 🎨 Figma UI/UX Design:
-🔗 Finance Tracking App – Figma Prototype
+🔗 https://www.figma.com/make/aZOYvcK5BQA1bo8nmad96L/Finance-Tracking-App--Community-?t=RLvXa2Z2XHbrmnSd-1
 
 Use this link to explore the complete UI design and layout of LedgerLink before development.
 
